@@ -1,0 +1,31 @@
+{
+  "name": "20240401",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^6.1.6",
+    "aws-amplify": "^6.0.25",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha-v3": "^1.10.1"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "0.13.0-beta.14",
+    "@aws-amplify/backend-cli": "0.12.0-beta.16",
+    "@types/aws-lambda": "^8.10.136",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "aws-cdk": "^2",
+    "aws-cdk-lib": "^2",
+    "constructs": "^10.0.0",
+    "esbuild": "^0.20.2",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "tsx": "^4.7.1",
+    "typescript": "^5.0.0",
+    "vite": "^5.2.0"
+  }
+}

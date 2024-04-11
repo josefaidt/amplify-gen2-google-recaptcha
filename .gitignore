@@ -1,0 +1,10 @@
+# amplify
+node_modules
+.amplify
+amplifyconfiguration*
+
+# .env
+.env*
+
+# vite
+dist
